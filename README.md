@@ -1,6 +1,3 @@
-## Hey, guys! I'm Guilherme Miserski :)
-
-   ##
 ### I'm focused on studying Web Development and Mobile with this technologies:
   
   <div style="display: inline-block" align='center'><br>
