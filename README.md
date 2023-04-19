@@ -1,4 +1,4 @@
-### I'm focused on studying Web Development and Mobile with this technologies:
+### I'm focused on studying Web Development with this technologies:
   
   <div style="display: inline-block" align='center'><br>
   <img align="center" alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
